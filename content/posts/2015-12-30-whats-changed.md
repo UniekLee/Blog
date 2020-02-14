@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2015-12-30 21:11:44+00:00
 draft: false
 title: What's Changed?
@@ -11,7 +11,7 @@ categories:
 - Thoughts
 ---
 
-I was having a discussion with the awesome staff at [Renown Church](http://renownchurch.com) about Abraham and how he was recognised as someone loved by God because of his incredible wealth.
+I was having a discussion with the awesome staff at [Renown Church](http://renownchurch.com) about Abraham and how he was recognised as someone loved by God because of his incredible wealth.<!--more-->
 
 This is a common pattern in the Old Testament - God blesses His servants with incredible wealth, and people marvel and the wealth and praise God. In this case, the answer to the question: "what is different about you because of God?" is "wealth." The pattern is "come and see."
 

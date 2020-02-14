@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2014-07-31 13:27:31+00:00
 draft: false
 title: Life is Unfair! I've had enough!
@@ -10,7 +10,7 @@ categories:
 - Thoughts
 ---
 
-Life is unfair. We all know that. And I've actually had enough of being put down by the unfairness that is inherent of life!
+Life is unfair. We all know that. And I've actually had enough of being put down by the unfairness that is inherent of life!<!--more-->
 
 
 <blockquote>Life's unfair, get used to it!</blockquote>

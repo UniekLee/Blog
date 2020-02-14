@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2013-12-22 14:23:16+00:00
 draft: false
 title: A skewed view of "mutually beneficial"
@@ -10,7 +10,7 @@ categories:
 - Thoughts
 ---
 
-When I started my new job my boss gave me a new laptop.
+When I started my new job my boss gave me a new laptop.<!--more-->
 
 
 ## The illusion

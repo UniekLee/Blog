@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2014-02-11 08:54:42+00:00
 draft: false
 title: Could you have the next big app?
@@ -10,7 +10,7 @@ categories:
 - Thoughts
 ---
 
-Apple announced that in 2013 the App Store did over $10 billion in turnover, with over $1 billion in December 2013 alone.
+Apple announced that in 2013 the App Store did over $10 billion in turnover, with over $1 billion in December 2013 alone.<!--more-->
 
 I'd wager that you wouldn't mind a piece of that pie. And I'd also wager that you have an idea that could do it for you...
 

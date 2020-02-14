@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2015-07-31 18:28:14+00:00
 draft: false
 title: A Dip at the Durdle Door
@@ -14,7 +14,7 @@ post_series:
 
 The alliterative titles are back! Woo hoo!
 
-This morning saw us taking a trip out the the Durdle Door. It's a natural limestone archway right on the coast in the middle of a pair of beautiful beaches.
+This morning saw us taking a trip out the the Durdle Door. It's a natural limestone archway right on the coast in the middle of a pair of beautiful beaches.<!--more-->
 
 Our morning outing took a scenic drive out to the Durdle Door and a long walk along the adjacent beach. It's a beautiful sight and a lovely, sheltered peddle beach.
 

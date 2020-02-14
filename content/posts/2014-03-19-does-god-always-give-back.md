@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2014-03-19 06:43:59+00:00
 draft: false
 title: Does God always give back?
@@ -10,7 +10,7 @@ categories:
 - Thoughts
 ---
 
-A little while ago God challenged me to start giving more money as an offering to Him. It started with one project's wage, but God soon prompted me to give Him a whole lot more - basically everything that wasn't my regular, base income was to go to God.
+A little while ago God challenged me to start giving more money as an offering to Him. It started with one project's wage, but God soon prompted me to give Him a whole lot more - basically everything that wasn't my regular, base income was to go to God.<!--more-->
 
 My response was: "That's fine, but then I have nothing left to save for a new computer, for a plane ticket to London for Taryn's wedding etc. so that's up to You then!"
 

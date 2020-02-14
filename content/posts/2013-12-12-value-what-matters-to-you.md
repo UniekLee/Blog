@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2013-12-12 17:19:42+00:00
 draft: false
 title: 'Value: What matters to you?'
@@ -13,7 +13,7 @@ categories:
 ## The Story
 
 
-Things at home are changing, and part of that change was moving a bunch of stuff out the house. Some of that stuff is alcohol, something I hate. It's standing on the dining room table at the moment, and I ask why it hadn't been thrown out yet.
+Things at home are changing, and part of that change was moving a bunch of stuff out the house. Some of that stuff is alcohol, something I hate. It's standing on the dining room table at the moment, and I ask why it hadn't been thrown out yet.<!--more-->
 
 My mom's response was that she couldn't throw it out, because she can't waste money. And my response was that the money was already wasted when it was purchased, and so it wouldn't be wasted when we throw it out.
 

@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2016-04-13 19:42:40+00:00
 draft: false
 title: Eternity isn't very long
@@ -8,7 +8,7 @@ categories:
 - Thoughts
 ---
 
-Have you ever thought about the concept of eternity, or thought about what it must be like to live forever? And have you ever considered the fact that God knows all things and is everywhere at the same time? That He is at the beginning of time, and at the crucifixion and with us right now...all at the same time? Well, what if eternity wasn't living forever.
+Have you ever thought about the concept of eternity, or thought about what it must be like to live forever?<!--more-->And have you ever considered the fact that God knows all things and is everywhere at the same time? That He is at the beginning of time, and at the crucifixion and with us right now...all at the same time? Well, what if eternity wasn't living forever.
 
 Let's talk about a different concept that is also difficult for humans to wrap their heads around, but a little easier to explain: infinity.
 

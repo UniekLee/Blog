@@ -4,6 +4,8 @@ date: 2012-10-07 17:31:05+00:00
 draft: false
 title: What it means to be a Christian
 
+description_as_summary: false
+
 url: /revelation/what-it-means-to-be-a-christian/
 categories:
 - Revelation
@@ -15,7 +17,9 @@ tags:
 - tweet
 ---
 
-When I woke up this morning my first thought was "Why are you going to church this morning?" This immediately got me thinking, and helped me realise that I've been going to church, for some time now, purely out of habit. Being a Christian isn't about going to church, it's about knowing and loving God. I've known this for a while, but it really struck me hard this morning.<!-- more -->
+When I woke up this morning my first thought was "Why are you going to church this morning?"<!--more-->This immediately got me thinking, and helped me realise that I've been going to church, for some time now, purely out of habit.
+
+Being a Christian isn't about going to church, it's about knowing and loving God. I've known this for a while, but it really struck me hard this morning.
 
 I began praying and just asking God to help me focus. He reminded me of the message that we heard on Friday night at Sublime. Very basically the message said that being a Christian is not about whether we are a good or bad person, whether we're doing stuff for God or not, whether we're living the life or not, but it's about knowing God, loving God, and as a result, becoming like God. That is what Christianity is all about.
 

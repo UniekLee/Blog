@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2015-04-19 12:19:57+00:00
 draft: false
 title: An Idol in My Life
@@ -14,7 +14,7 @@ post_series:
 - Let's Get Vulnerable
 ---
 
-Last week [Matt](https://twitter.com/mattlewis516) preached an incredibly challenging and inspiring message entitled ["My Plus One is Different From Me".](http://highwayaog.co.za/resources/messages/?sermon_id=287) If you haven't heard it, I'd suggest that you give it a listen. And if you have heard it, just listen again - it's great!
+Last week [Matt](https://twitter.com/mattlewis516) preached an incredibly challenging and inspiring message entitled ["My Plus One is Different From Me".](http://highwayaog.co.za/resources/messages/?sermon_id=287) If you haven't heard it, I'd suggest that you give it a listen.<!--more--> And if you have heard it, just listen again - it's great!
 
 Although I paid close attention to the message in both the morning and evening gatherings, God challenged me through a thought based on a small comment that Matt made at some point. The thought was:
 

@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2015-05-28 08:12:07+00:00
 draft: false
 title: Outside In
@@ -11,18 +11,18 @@ categories:
 - Thoughts
 ---
 
-We had a great prayer meeting at the [Renown Church](http://renownchurch.com), [Edenvale Campus](http://renownchurch.com/campuses/edenvale/) on Wednesday morning (2015-05-27.) We prayed about a number of things, but there was something that really stood out to me. It was something that [Matt](http://twitter.com/mattlewis516) said while he was praying - I can't remember his exact wording - and a thought really struck me:
+We had a great prayer meeting at the [Renown Church](http://renownchurch.com), [Edenvale Campus](http://renownchurch.com/campuses/edenvale/) on Wednesday morning (2015-05-27.) We prayed about a number of things, but there was something that really stood out to me.<!--more--> It was something that [Matt](http://twitter.com/mattlewis516) said while he was praying - I can't remember his exact wording - and a thought really struck me:
 
 
 
 
 
 <blockquote>
-  
-> 
+
+>
 > What affects my wellbeing: the stuff happening around me, or the stuff happening within me?
-> 
-> 
+>
+>
 </blockquote>
 
 
@@ -66,6 +66,3 @@ Anyway, this is not something that I have all figured out. It's just a thought t
 
 
 `</UniekLee>`
-
-
-

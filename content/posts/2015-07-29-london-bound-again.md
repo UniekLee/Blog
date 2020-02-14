@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2015-07-29 20:32:21+00:00
 draft: false
 title: London Bound...Again!
@@ -7,12 +7,12 @@ title: London Bound...Again!
 url: /travel/london-bound-again/
 categories:
 - Travel
-- UK 2015
+- "UK 2015"
 post_series:
-- UK 2015
+- "UK 2015"
 ---
 
-Once again I'm off to London! A few hours ago I climbed aboard my Qatar flight toward London with the primary purpose of attending my friend's (Taryn's) wedding. While in the UK I will also be visiting other friends (Dean and Carmen) and having a bit of a holiday alone.
+Once again I'm off to London! A few hours ago I climbed aboard my Qatar flight toward London with the primary purpose of attending my friend's (Taryn's) wedding.<!--more--> While in the UK I will also be visiting other friends (Dean and Carmen) and having a bit of a holiday alone.
 
 Further more, I'm accompanying Gaby on her flight to the UK as she immigrates. All together it makes for a pretty busy trip, but one that I've been looking forward to for the last 6 months.
 

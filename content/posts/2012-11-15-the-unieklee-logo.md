@@ -1,5 +1,5 @@
----
-author: unieklee
+<!--more-->---
+author: "Lee Watkins"
 date: 2012-11-15 14:41:43+00:00
 draft: false
 title: UniekLee, The Saga of a Logo Design
@@ -15,7 +15,7 @@ tags:
 - UniekLee
 ---
 
-Whenever one rebrands something, that usually entails a complete new look. I have recently gone through a rebranding of myself. I have moved from [leew4jc](http://leew4jc.com) to [UniekLee](http://twitter.com/UniekLee). You can ready about why I chose to do this in my blog post, [Why UniekLee?](http://unieklee.com/old/why-unieklee/) One of the things that comes with a rebranding is a new logo. I know what you're thinking - you're a human being, why do you need a logo? Well, I don't. I have no use for one at all. But I want one: it's cool, it's fun, it's something that I enjoy.<!-- more -->
+Whenever one rebrands something, that usually entails a complete new look. I have recently gone through a rebranding of myself. I have moved from [leew4jc](http://leew4jc.com) to [UniekLee](http://twitter.com/UniekLee).<!--more--> You can ready about why I chose to do this in my blog post, [Why UniekLee?](http://unieklee.com/old/why-unieklee/) One of the things that comes with a rebranding is a new logo. I know what you're thinking - you're a human being, why do you need a logo? Well, I don't. I have no use for one at all. But I want one: it's cool, it's fun, it's something that I enjoy.<!-- more -->
 
 Now when it comes to designing a logo, I have very strong beliefs about what a logo should be. A logo should represent it's subject in every aspect. I believe it should be simple enough for someone to doodle when they have nothing else to do, but yet recognisable that it isn't confused with anything else.
 

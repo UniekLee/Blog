@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2015-07-30 14:04:51+00:00
 draft: false
 title: Touch down in the UK!
@@ -7,12 +7,12 @@ title: Touch down in the UK!
 url: /travel/touch-down-in-the-uk/
 categories:
 - Travel
-- UK 2015
+- "UK 2015"
 post_series:
-- UK 2015
+- "UK 2015"
 ---
 
-And we have arrived! Gaby and I are safe and sound in the UK. We arrived a few minutes early, made our way through passport control, baggage claim and customs without issue.
+And we have arrived! Gaby and I are safe and sound in the UK. We arrived a few minutes early, made our way through passport control, baggage claim and customs without issue.<!--more-->
 
 She met up with her cousin and has headed off to start her stay in the UK. It's a pretty big adventure for her!
 

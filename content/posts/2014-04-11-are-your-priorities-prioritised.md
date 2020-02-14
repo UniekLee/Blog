@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2014-04-11 08:59:59+00:00
 draft: false
 title: Are your priorities prioritised?
@@ -11,7 +11,7 @@ categories:
 - Thoughts
 ---
 
-If you had to ask God what makes one person a better Christian than another, what do you think He would say? I'm not sure He would say that one is better than another, but the point is, what do you think is most important to God?
+If you had to ask God what makes one person a better Christian than another, what do you think He would say?<!--more--> I'm not sure He would say that one is better than another, but the point is, what do you think is most important to God?
 
 
 ## Possible priorities

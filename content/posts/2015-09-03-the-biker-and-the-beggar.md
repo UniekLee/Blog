@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2015-09-03 05:58:19+00:00
 draft: false
 title: The Biker and The Beggar
@@ -15,7 +15,7 @@ post_series:
 - Let's Get Vulnerable
 ---
 
-A few days ago I saw the perfect expression of how charity can destroy dignity, and how charity does not empower the poor.
+A few days ago I saw the perfect expression of how charity can destroy dignity, and how charity does not empower the poor.<!--more-->
 
 I had taken an offramp from the highway and was stopped at the traffic lights. There was a lady with a child, sitting on the side of the road, begging. A motor biker had also taken the same offramp and pulled up beside me. He looked over and saw the lady begging and reached into his pocket to grab some money.
 

@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2012-11-18 18:55:16+00:00
 draft: false
 title: Evangelism Isn't About Saving Everyone
@@ -9,7 +9,7 @@ categories:
 - Revelation
 ---
 
-Ok, it's a controversial title, but it got you reading, didn't it? Anyway, this is an idea that I believe God kinda dropped into my heart the other day: Evangelism isn't about getting everyone saved. Let me explain:
+Ok, it's a controversial title, but it got you reading, didn't it? Anyway, this is an idea that I believe God kinda dropped into my heart the other day: Evangelism isn't about getting everyone saved. <!--more-->Let me explain:
 
 I was praying for a friend that has a lot to do with a christian group in there school. I was praying for encouragement for this friend, and God said to me: you don't have to save  everyone.
 

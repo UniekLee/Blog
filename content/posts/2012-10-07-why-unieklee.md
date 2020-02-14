@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2012-10-07 15:02:46+00:00
 draft: false
 title: Why UniekLee?
@@ -16,7 +16,7 @@ tags:
 - unique
 ---
 
-So why would I go and change my screen name from [leew4jc](http://leew4jc.com) to UniekLee? Well, there are a number of reasons, so I thought I would explain.
+So why would I go and change my screen name from [leew4jc](http://leew4jc.com) to UniekLee? Well, there are a number of reasons, so I thought I would explain.<!--more-->
 
 First of all, I have to say that I had nothing against the screen name [leew4jc](http://leew4jc.com). It has served me well over the years, and it has significant meaning to me. However, I feel that UniekLee better represents who I am. <!-- more -->Here's why:
 

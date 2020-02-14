@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2014-02-16 21:13:42+00:00
 draft: false
 title: The night God cancelled church
@@ -9,7 +9,7 @@ categories:
 - Church
 ---
 
-Every Sunday evening we have our evening campus at Highway Church. It's usually a small gathering, but definitely one of my favourites, just like every other Highway gathering. I particularly enjoy the intimacy and the repeat message from a Sunday morning - it gives me a chance to really listen more deeply into the message.
+Every Sunday evening we have our evening campus at Highway Church. It's usually a small gathering, but definitely one of my favourites, just like every other Highway gathering.<!--more--> I particularly enjoy the intimacy and the repeat message from a Sunday morning - it gives me a chance to really listen more deeply into the message.
 
 But tonight, that didn't happen. God cancelled church.
 

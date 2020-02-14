@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2012-11-07 20:27:34+00:00
 draft: false
 title: Be the Church
@@ -19,7 +19,7 @@ tags:
 - Jesus
 ---
 
-I've grown up in the church in many ways. Sure, I haven't always been in church, but for most of my life I've been exposed to a traditional church setting. We've been going through two series at church, and both have been radically challenging my idea of church.<!-- more -->
+I've grown up in the church in many ways. Sure, I haven't always been in church, but for most of my life I've been exposed to a traditional church setting. We've been going through two series at church, and both have been radically challenging my idea of church.<!--more-->
 
 The first of the series was about discipleship. We've been going thought this in our Sunday morning gatherings. The second session is about how to be a GOOD home cell member, and this we've been going through on Wednesday nights at home cell.
 
@@ -56,5 +56,3 @@ I've been thinking about these things, and I'm not so sure they're all completel
 Now there's nothing to say that this is correct in any way, but at least I hope that this is closer to the truth.
 
 So tell me, what do you think about the church, home cells and evangalism? Have I moved closer or further from the truth? Does it even matter? I look forward to hearing from you.
-
-

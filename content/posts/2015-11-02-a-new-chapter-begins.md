@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2015-11-02 07:28:05+00:00
 draft: false
 title: A New Chapter Begins
@@ -10,7 +10,7 @@ categories:
 - Life
 ---
 
-Today marks the start of a brand new and exciting chapter of my life. For many years now (approx 10 years) I have been serving God. Not long after meeting God for the first time and deciding to serve Him, I dedicated myself to His service wholeheartedly. I determined that everything that I did from that moment on would be in service to Him.
+Today marks the start of a brand new and exciting chapter of my life. For many years now (approx 10 years) I have been serving God.<!--more--> Not long after meeting God for the first time and deciding to serve Him, I dedicated myself to His service wholeheartedly. I determined that everything that I did from that moment on would be in service to Him.
 
 Not long after that I felt that God was calling me into full time ministry in some shape or form. How or what, I wasn't sure, but I felt a definite call to do this.
 

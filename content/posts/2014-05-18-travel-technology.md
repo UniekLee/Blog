@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2014-05-18 14:53:31+00:00
 draft: false
 title: Travel Technology
@@ -10,7 +10,7 @@ categories:
 - Travel
 ---
 
-My friends were scheduled to land at 06:35, but their flight was running about 20 minutes early. Not a problem though - my bus was due to arrive early and I was at the airport just a bit after 06:25. As I was coming up the escalator to the terminal I got a text to say that one of my friends was through passport control and he was waiting for our other two to finish up and come through.
+My friends were scheduled to land at 06:35, but their flight was running about 20 minutes early. Not a problem though - my bus was due to arrive early and I was at the airport just a bit after 06:25.<!--more--> As I was coming up the escalator to the terminal I got a text to say that one of my friends was through passport control and he was waiting for our other two to finish up and come through.
 
 A few minutes later we all met up headed down onto the London underground and hopped onto the Piccadilly line for the 66 minute trip to King's Cross St Pancras station. We then took the 9 minute walk South East to our Hostel, were we left our bag before catching the 91 bus to Russell Square to hop onto the next tour bus.
 

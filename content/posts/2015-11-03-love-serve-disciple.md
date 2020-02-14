@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2015-11-03 13:30:55+00:00
 draft: false
 title: Love, Serve, Disciple
@@ -11,7 +11,7 @@ categories:
 - Thoughts
 ---
 
-I'm reading through a book on service called ["Connect"](http://www.amazon.com/gp/product/B008SANU38/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008SANU38&linkCode=as2&tag=unie0c2-20&linkId=W7YOIHCJ4D2LFSVA) by [Nelson Searcy](https://www.churchleaderinsights.com/connect). In one of the opening chapters "In a Word" Searcy discusses how one would describe Christianity in a single word. He explains that he had many terms in mind (love, Jesus, salvation, heaven) but settled on "servant" as the best word to describe Christianity.
+I'm reading through a book on service called ["Connect"](http://www.amazon.com/gp/product/B008SANU38/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008SANU38&linkCode=as2&tag=unie0c2-20&linkId=W7YOIHCJ4D2LFSVA) by [Nelson Searcy](https://www.churchleaderinsights.com/connect).<!--more--> In one of the opening chapters "In a Word" Searcy discusses how one would describe Christianity in a single word. He explains that he had many terms in mind (love, Jesus, salvation, heaven) but settled on "servant" as the best word to describe Christianity.
 
 He then went on to discuss how pivotal love is in this equation. Love is not the result of Christianity, but rather the motivation - love for God and love for people. He posits that service is the best word to describe Christianity. And I would tend to agree with Him, but only to a point. You see, if Christianity could be equated with service, then once someone had become a servant, they would have achieved the goal of Christianity and that would be the end of that and nothing more would be required.
 

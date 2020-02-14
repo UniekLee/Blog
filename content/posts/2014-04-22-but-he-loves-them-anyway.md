@@ -1,5 +1,5 @@
 ---
-author: unieklee
+author: "Lee Watkins"
 date: 2014-04-22 07:34:42+00:00
 draft: false
 title: But He loves them anyway
@@ -11,7 +11,7 @@ categories:
 - Thoughts
 ---
 
-On Friday night (Good Friday, 18/04/2014) we held a stay awake for the youth of Highway Church; Double Impact. One of our late-night activities was to hold a Tenebrae service.
+On Friday night (Good Friday, 18/04/2014) we held a stay awake for the youth of Highway Church; Double Impact. One of our late-night activities was to hold a Tenebrae service.<!--more-->
 
 The service moved through the different things that Jesus had to endure on His way to the cross. Not the physical things, but the emotional things. Something struck me as we went through this.
 
